@@ -276,7 +276,7 @@ Dias de bolo?
 
 ## Referências
 
-Da Documentação do Joomla!: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code "Visual Studio Code") que também abrange a configuração de outras ferramentas, por exemplo, CodeSniffer e PHPUnit.
+Da Documentação do Joomla!: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code) que também abrange a configuração de outras ferramentas, por exemplo, CodeSniffer e PHPUnit.
 
 *Traduzido por openai.com*
 
