@@ -100,7 +100,7 @@ Na Configuração Global do Joomla, defina *Debug System* como *Sim* e *Error Re
 
 Quando você abrir uma página contendo o módulo com bug, verá um rastreamento de pilha informando onde um erro foi acionado.
 
-![Stack trace](../../../en/images/getting-started/vscode-primer-stack-trace.png)
+![Stack trace](../../../en/images/getting-started/vscode-primer/01-stack-trace.png)
 
 Às vezes, o erro de codificação está na primeira linha do rastreamento de pilha. Caso contrário, se o erro for acionado no código da biblioteca, por exemplo, ao passar dados inválidos para uma função de banco de dados, o erro de codificação pode estar mais abaixo na lista de chamadas de função.
 
@@ -108,7 +108,7 @@ Quando você abrir uma página contendo o módulo com bug, verá um rastreamento
 
 No VS Code, use o item de menu Arquivo / Abrir Pasta para localizar e abrir a pasta que contém sua cópia local do código da extensão *mod_debugme*. Você deve ver algo semelhante ao seguinte:
 
-![VS Code screen](../../../en/images/getting-started/vscode-primer-screen.png)
+![VS Code screen](../../../en/images/getting-started/vscode-primer/02-vscode-screen.png)
 
 Você pode ser capaz de diagnosticar o problema apenas lendo o código. No caso do erro *Classe "DebugHelper" não encontrada* você verá que uma declaração *use* foi comentada algumas linhas anteriormente. Esquecer de inserir uma declaração *use* é um erro comum durante o desenvolvimento inicial!
 
@@ -270,7 +270,7 @@ Alguns problemas não tão óbvios:
 
 Quando tudo estiver resolvido, isto é o que você poderá ver:
 
-![Site view of debugged module working](../../../en/images/getting-started/vscode-primer-debugme-fixed.png)
+![Site view of debugged module working](../../../en/images/getting-started/vscode-primer/03-debugme-fixed.png)
 
 Dias de bolo?
 

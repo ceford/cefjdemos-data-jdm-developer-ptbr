@@ -14,7 +14,7 @@ Neste exemplo, os sites de teste do Joomla estão localizados em subpastas da ra
 
 Esta é uma captura de tela de parte de uma lista da pasta Sites mostrando uma seleção de muitos sites de teste:
 
-![multiple sites on mac](../../../en/images/getting-started/developer-file-structure-mac-sites.png)
+![multiple sites on mac](../../../en/images/getting-started/developer-file-structure/01-multiple-sites-on-mac.png)
 
 Cada um é acessado pelo nome de sua subpasta. Exemplos:
 
@@ -27,7 +27,7 @@ Existem circunstâncias nas quais você pode preferir criar sites virtuais separ
 
 Se você ainda não fez isso, precisará se familiarizar com a estrutura de um site Joomla. A ilustração a seguir mostra um exemplo típico de árvore de arquivos e pastas do Joomla, com a pasta Administrator expandida para mostrar seu conteúdo.
 
-![joomla file structure with administrator expanded](../../../en/images/getting-started/developer-file-structure-mac-joomla.png)
+![joomla file structure with administrator expanded](../../../en/images/getting-started/developer-file-structure/02-file-structure-admin-expanded.png)
 
 Aqui é onde o código funcional será instalado. O código-fonte está em outro lugar.
 
@@ -35,7 +35,7 @@ Aqui é onde o código funcional será instalado. O código-fonte está em outro
 
 A localização do código da sua extensão é uma escolha pessoal. Eu gosto de manter o código da minha extensão em uma árvore de arquivos adequada para a criação de um arquivo zip instalável. A base da minha árvore é /Users/username/git porque eu sei digitar git e uso git para controle de versão. Você não precisa fazer isso - git será abordado em um tutorial separado. Minha pasta pai do git contém muitas subpastas que podem usar pastas git separadas para controle de versão. Esta é uma captura de tela mostrando uma lista parcial de projetos:
 
-![joomla file structure project folders](../../../en/images/getting-started/developer-file-structure-mac-project-folders.png)
+![joomla file structure project folders](../../../en/images/getting-started/developer-file-structure/03-project-folders.png)
 
 Observe que alguns dos nomes de pastas começam com `j4xdemos`, que adotei para usar como a primeira parte do namespace utilizado para meus projetos criados para fins de tutoriais do Joomla 4. Não é necessário como parte do nome da pasta, mas é algo a se considerar: a primeira parte do seu namespace precisa ser algo único para você ou sua organização. Desde então, adotei `cefjdemos` como meu prefixo de namespace, pois é mais pessoal e não específico a uma versão do Joomla.
 
@@ -45,7 +45,7 @@ Tomando o j4xdemos-com-mywalks como exemplo, todo o código que irá para a exte
 
 Na ilustração a seguir, a pasta j4xdemos-com-mywalks foi aberta no VSCodium para mostrar a estrutura do código do projeto. O arquivo mywalks.xml é um arquivo de manifesto que informa ao Joomla o que instalar e onde. As pastas admin e site contêm código que irá para administrator/components/com_mywalks e components/com_mywalks.
 
-![Project folder open in vscodium](../../../en/images/getting-started/developer-file-structure-mac-vscodium.png)
+![Project folder open in vscodium](../../../en/images/getting-started/developer-file-structure/04-project-open-in-vscodium.png)
 
 Deve ser óbvio que mesmo um pequeno componente precisa de uma quantidade considerável de pastas e arquivos. Existem ferramentas de modelo pré-definido para extensões disponíveis para criar rapidamente um componente esqueleto. Elas são abordadas em outro lugar. ToDo
 

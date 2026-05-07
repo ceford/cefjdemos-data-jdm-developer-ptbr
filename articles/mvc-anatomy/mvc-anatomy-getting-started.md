@@ -29,13 +29,11 @@ Os arquivos para o componente com_countrybase estão disponíveis no GitHub. Voc
 
 Esta lista de Administradores de Países tem cinco itens para minimizar o tamanho da imagem. O Joomla normalmente exibe 20 itens.
 
-![List of countries](../../../en/images/mvc-anatomy/com-countrybase-countries.png)
+![List of countries](../../../en/images/mvc-anatomy/mvc-anatomy-getting-started/01-admin-list-of-countries.png)
 
-## Componente em Template
+The site display has been set to 5 items also:
 
-Para ajudá-lo a começar com seu próprio componente, há um [componente modelo](https://github.com/ceford/j4xdemos-com-bpsrc/archive/refs/heads/master.zip) disponível no Github. Baixe e descompacte isso no espaço de arquivos do seu projeto, e não na árvore do seu site de teste. Após o download, faça todas as alterações indicadas no README e você estará pronto para começar.
-
-Existem também vários geradores de extensão gratuitos e comerciais que você pode querer experimentar para gerar um componente esqueleto para seus próprios fins. [Joomla! Component Builder](https://www.joomlacomponentbuilder.com/) é gratuito e parece ser abrangente.
+![List of countries in site view](../../../en/images/mvc-anatomy/mvc-anatomy-getting-started/02-site-list-of-countries.png)
 
 *Traduzido por openai.com*
 

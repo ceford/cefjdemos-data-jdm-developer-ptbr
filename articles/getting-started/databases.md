@@ -6,7 +6,7 @@ Novatos podem ter a impressão de que MySQL e MariaDB são bancos de dados e pod
 
 A captura de tela a seguir mostra parte de uma lista de mais de 30 bancos de dados criados para testar várias instalações e projetos de extensões do Joomla.
 
-![Phypadmin screenshot of list of databases](../../../en/images/getting-started/phpmyadmin-databases.png)
+![Phypadmin screenshot of list of databases](../../../en/images/getting-started/databases/01-phpmyadmin-list-of-databases.png)
 
 Uma observação: as comparações são majoritariamente utf8mb4_0900_ai_ci:
 

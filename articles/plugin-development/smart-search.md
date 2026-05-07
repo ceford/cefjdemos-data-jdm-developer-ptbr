@@ -31,7 +31,7 @@ cefjdemos-plg-finder-jdocmanual
 
 No VSCodium, parece assim:
 
-![Plugin development file structure in vscodium](../../../en/images/plugins/jdocmanual-vscodium.png)
+![Plugin development file structure in vscodium](../../../en/images/plugin-development/smart-search/01-files-in-vscodium.png)
 
 ## Personalizar o Código
 
@@ -132,7 +132,7 @@ A partir de **Módulos de Conteúdo / Site** selecione **Novo** e instale um nov
 
 Eventualmente, seu plugin de busca inteligente personalizado deve funcionar. Esta é uma página de resultados de exemplo para o Jdocmanual que pesquisa um termo nesta página. A página de resultados omite o formulário de pesquisa da barra de título porque ele está presente no corpo da página.
 
-![Smart search result](../../../en/images/plugins/jdocmanual-search-result.png)
+![Smart search result](../../../en/images/plugin-development/smart-search/02-smart-search-result.png)
 
 Um parêntese: o plugin System - Joomla Accessibility Checker mostra que há 3 erros relacionados ao formulário de entrada de dados *Termos de Busca*. Isso precisa de uma correção no núcleo ou substituição.
 
