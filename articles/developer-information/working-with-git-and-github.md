@@ -1,4 +1,11 @@
-<!-- Filename: Working_with_git_and_github / Display title: Trabalhando com git e github -->
+<!--
+{
+  "source": "https://docs.joomla.org/Working_with_git_and_github",
+  "title": "Trabalhando com git e github ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -48,7 +55,7 @@ No GitHub, você pode encontrar projetos em chamados Repositórios. Dentro de um
 
 No seu computador de teste, você vai usar o branch **4.2-dev**. No entanto, você não pode modificar este branch porque não é o proprietário. Você precisa fazer uma cópia dele. No GitHub isso é chamado de Fork. Você é o proprietário dessa cópia, então pode modificá-la. Após modificar o seu fork, você pode fazer um Pull Request para as alterações que fez. Falaremos mais sobre isso depois. Você pode fazer Fork de um branch pressionando o botão Fork no [Repositório do Joomla! CMS no Github](https://github.com/joomla/joomla-cms). Este botão está localizado no canto superior direito da página.
 
-![Fork joomla in github](../../../en/images/getting-started/working-with-git-and-github/01-fork-joomla-in-github.png)
+![Fork joomla in github](../../../en/images/developer-information/working-with-git-and-github/01-fork-joomla-in-github.png)
 
 Após fazer o fork, você precisa instalar o Joomla! no seu computador local. Vá para a pasta onde você pode colocar arquivos usados pelo seu servidor Web. Muitos programas usam uma pasta chamada `htdocs`. Alguns usam `www` e outros usam pastas completamente diferentes. Tudo depende de se você está usando Windows, Mac ou Linux. Com o tempo, sua raiz web conterá diferentes pastas para diferentes sites. Uma vez dentro da sua pasta raiz web. Ou, em uma janela de Terminal aberta, use o comando cd para mudar o diretório atual para a raiz web. Ou, em seu explorador de arquivos GUI, localize a pasta raiz web, pressione o botão direito do mouse e clique em: "Git Bash Here" ou "Open Terminal" ou algo semelhante.
 

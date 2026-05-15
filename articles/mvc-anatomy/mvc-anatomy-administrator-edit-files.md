@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:MVC_Anatomy:_Administrator_Edit_Files / Display title: Anatomia do MVC: Editar Arquivos do Administrador -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:MVC_Anatomy:_Administrator_Edit_Files",
+  "title": "Anatomia do MVC: Editar Arquivos do Administrador ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Arquivos de Dados do País
 
@@ -227,7 +234,7 @@ HTMLHelper::_('behavior.keepalive');
 
 Você pode alternar entre conjuntos de campos de formulário e campos dentro de cada conjunto. Isso pode simplificar a saída de formulários complexos com várias abas.
 
-![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form/01-country-edit-form.png)
+![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form.png)
 
 *Traduzido por openai.com*
 

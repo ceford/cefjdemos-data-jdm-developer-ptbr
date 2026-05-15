@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:MVC_Anatomy:_Manifest_File / Display title: Anatomia do MVC: Arquivo Manifesto -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:MVC_Anatomy:_Manifest_File",
+  "title": "Anatomia do MVC: Arquivo Manifesto ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Metadados
 

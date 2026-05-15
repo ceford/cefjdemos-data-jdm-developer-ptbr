@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Developer:_Required_Software / Display title: Configuração do Banco de Dados -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Developer:_Required_Software",
+  "title": "Configuração do Banco de Dados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Sobre MySQL e MariaDB
 

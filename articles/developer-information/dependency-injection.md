@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Dependency_Injection_in_Joomla_4 / Display title: Injeção de Dependência -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Dependency_Injection_in_Joomla_4",
+  "title": "Injeção de Dependência ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 

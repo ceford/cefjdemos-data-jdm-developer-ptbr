@@ -1,4 +1,11 @@
-<!-- Filename: API_Guides / Display title: Guias da API -->
+<!--
+{
+  "source": "https://docs.joomla.org/API_Guides",
+  "title": "Guias da API ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Esta página contém um índice do conjunto de Guias da API Joomla. Esses guias têm como objetivo ajudá-lo a entender como usar essas funções do Joomla em suas próprias extensões do Joomla.
 

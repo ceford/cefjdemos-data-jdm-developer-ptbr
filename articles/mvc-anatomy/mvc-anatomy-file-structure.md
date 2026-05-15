@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:MVC_Anatomy:_File_Structure / Display title: MVC Anatomia: Estrutura de Arquivos -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:MVC_Anatomy:_File_Structure",
+  "title": "MVC Anatomia: Estrutura de Arquivos ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Configuração do Desenvolvedor
 
@@ -48,7 +55,7 @@ cefjdemos-com-countrybase
 
 Esta é a estrutura no IDE VSCodium:
 
-![Vscodium file structure view](../../../en/images/mvc-anatomy/com-countrybase-vscodium/01-file-structure.png)
+![Vscodium file structure view](../../../en/images/mvc-anatomy/mvc-anatomy-file-structure/01-vscodium-file-structure.png)
 
 Na instalação, as partes do componente `com_countrybase` são distribuídas em diferentes locais na estrutura de arquivos do Joomla:
 - Os arquivos do administrador vão para `root/administrator/components/com_countrybase`.

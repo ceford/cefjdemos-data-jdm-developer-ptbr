@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Tips_and_Tricks_for_Joomla_4_Developers / Display title: Dicas e Truques para Desenvolvedores Joomla 4 -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Tips_and_Tricks_for_Joomla_4_Developers",
+  "title": "Dicas e Truques para Desenvolvedores Joomla 4 ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Esta série de artigos destina-se a ajudar novos desenvolvedores com exemplos de código projetados e usados para resolver problemas específicos. Eles normalmente envolvem uma mistura de PHP, JavaScript, XML e, às vezes, outros formatos.
 

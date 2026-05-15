@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Developer:_Required_Software / Display title: Software Necessário -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Developer:_Required_Software",
+  "title": "Software Necessário ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Http_Header_Management / Display title: Cabeçalhos HTTP -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Http_Header_Management",
+  "title": "Cabeçalhos HTTP ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 

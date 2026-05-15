@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Cloud_File_Systems_for_Media_Manager / Display title: Sistemas de Arquivos em Nuvem para Gerenciador de Mídia -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Cloud_File_Systems_for_Media_Manager",
+  "title": "Sistemas de Arquivos em Nuvem para Gerenciador de Mídia ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <span id="main-portal-heading">GSoC 2017 Sistemas de Arquivos em Nuvem para Gerenciador de Mídia Documentação</span> Joomla! 4.x
 

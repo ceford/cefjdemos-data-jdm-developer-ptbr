@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Web_Assets / Display title: Ativos Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Web_Assets",
+  "title": "Ativos Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Sobre Ativos Web
 
